@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkyoutubeclone=self.webpackChunkyoutubeclone||[]).push([[498],{7498:(e,t,u)=>{u.r(t),u.d(t,{default:()=>l});u(5043);var c=u(9790),s=u(579);const l=()=>(0,s.jsx)(c.A,{title:"\uc798\ubabb\ub41c \ud398\uc774\uc9c0",description:"\uc811\uadfc\uc774 \uc798\ubabb\ub41c \ud398\uc774\uc9c0\uc785\ub2c8\ub2e4.",children:"Not"})}}]);
+//# sourceMappingURL=498.0ef34949.chunk.js.map
